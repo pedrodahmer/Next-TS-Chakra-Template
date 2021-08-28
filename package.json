@@ -1,7 +1,7 @@
 {
-  "name": "quater-landing-template",
+  "name": "next-ts-chakra-template",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
