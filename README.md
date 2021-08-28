@@ -1,6 +1,6 @@
 # Next-TS-Chakra-Template
 
-A boiler plate setup for projects using Typescript, NextJS ans Chakra-UI
+A boilerplate setup for projects using Typescript, NextJS ans Chakra-UI
 
 Includes Chakra-UI's extended themes setup and garmeeh/next-seo setup
 
